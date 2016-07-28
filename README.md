@@ -1,0 +1,2 @@
+# 2016_7_28_SimpleAdapterAndListView
+是用简单适配器
